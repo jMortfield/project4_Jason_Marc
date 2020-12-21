@@ -99,7 +99,7 @@ foodApp.events = function () {
     });
 }
 
-foodApp.apiKeyUSDA = 'TqiCp1WcVXZzchDeT3DL0M8mk2OrOirzhkXgTrwa';
+foodApp.apiKeyUSDA = 'aTxNM7JYYjnrUYSi5Edg0h2PfjFJKan5HndjTMaB';
 
 foodApp.buttonDelay = function () {
     // Temporarily hide next button on click
